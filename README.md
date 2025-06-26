@@ -22,7 +22,7 @@ A lista é gigante!!
 * [ ] 01124 - Celebrity Jeopardy (UVa)  #0ca1b963
 * [ ] 11044 - Searshing for Nessy (UVa)  #3348c9b8
 * [ ] 11547 - Automatic Answer (UVa)  #c199272e
-* [ ] different (Kattis)  #67432385
+* [X] different (Kattis)  #67432385
 * [ ] qaly (Kattis)  #d89f802a
 * [ ] tarifa (Kattis)  #a6adcc16
 
