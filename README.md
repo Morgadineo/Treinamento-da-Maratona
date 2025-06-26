@@ -18,7 +18,7 @@ A lista é gigante!!
 
 ### b) Repetição
 
-* [ ] timeloop (Kattis)  #11812e8e
+* [X] timeloop (Kattis)  #11812e8e
 * [ ] 01124 - Celebrity Jeopardy (UVa)  #0ca1b963
 * [ ] 11044 - Searshing for Nessy (UVa)  #3348c9b8
 * [ ] 11547 - Automatic Answer (UVa)  #c199272e
