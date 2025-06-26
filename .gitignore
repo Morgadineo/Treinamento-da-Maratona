@@ -1,0 +1,5 @@
+# Arquivos executáveis
+/[^.]*$
+
+# Manter:
+!README
