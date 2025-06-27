@@ -20,15 +20,15 @@ A lista é gigante!!
 
 * [X] timeloop (Kattis)  #11812e8e
 * [X] 01124 - Celebrity Jeopardy (UVa)  #0ca1b963
-* [ ] 11044 - Searshing for Nessy (UVa)  #3348c9b8
-* [ ] 11547 - Automatic Answer (UVa)  #c199272e
+* [X] 11044 - Searshing for Nessy (UVa)  #3348c9b8
+* [X] 11547 - Automatic Answer (UVa)  #c199272e
 * [X] different (Kattis)  #67432385
 * [X] qaly (Kattis)  #d89f802a
 * [X] tarifa (Kattis)  #a6adcc16
 
 ### c) Seleção
 
-* [ ] moscowdream (Kattis)  #a92717c9
+* [X] moscowdream (Kattis)  #a92717c9
 * [ ] isithallowen (Kattis)  #d76aad6b
 * [ ] judgingmoose (Kattis)  #69108235
 * [ ] onechicken (Kattis)  #6c6e5e20
